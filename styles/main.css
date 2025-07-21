@@ -1,0 +1,93 @@
+body {
+    font-family: "Funnel Display", sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: silver;
+}
+
+hr {
+    color: silver;
+}
+
+.title {
+    border: 15px double black;
+}
+
+.contents {
+    font-size: 12px;
+    text-align: justify;
+    border: 5px solid black;
+    padding: 1%;
+}
+
+.bio {
+    text-indent: 30px;
+    font-size: 40px;
+    font-family: "Birthstone";
+    text-align: left;
+    color: silver;
+}
+
+.comingsoon {
+    font-size: 75px;
+    font-family: "Birthstone", sans-serif;
+    text-align: center;
+    color: silver;
+    border: 5px double black;
+}
+
+.immortalstitle {
+    font-size: 60px;
+    text-align: center;
+    color: darkgray;
+    border: 5px solid black;
+}
+
+.fragmentstitle {
+    font-size: 40px;
+    text-align: center;
+    color: darkgray;
+}
+
+.fragmentscontents {
+    font-size: 25px;
+    padding-left: 5%;
+    color: darkgray;
+}
+
+.lostsoulstitle {
+    font-size: 40px;
+    text-align: center;
+    color: darkred;
+}
+
+.lostsoulscontents {
+    font-size: 25px;
+    padding-left: 5%;
+    color: darkred;
+}
+
+.fantasticaltitle {
+    font-size: 60px;
+    text-align: center;
+    color: magenta;
+    border: 5px solid black;
+}
+
+.paradisetitle {
+    font-size: 40px;
+    text-align: center;
+    color: magenta;
+}
+
+.paradisecontents {
+    font-size: 25px;
+    padding-left: 5%;
+    color: magenta;
+}
+
+ul.a {
+    list-style-type: none;
+}

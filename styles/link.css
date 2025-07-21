@@ -1,0 +1,119 @@
+<!--Fragments Link-->
+
+a.class1 {
+  color: darkgray;
+}
+
+a.class1:link {
+  color: darkgray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.class1:visited {
+  color: rgb(94, 94, 94);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.class1:hover {
+  color: rgb(211, 211, 211);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a.class1:active {
+  color: rgb(231, 81, 11);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+<!--Lost Souls Link-->
+
+a.class2 {
+  color: darkred;
+}
+
+a.class2:link {
+  color: darkred;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.class2:visited {
+  color: rgb(83, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.class2:hover {
+  color: rgb(180, 0, 0);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a.class2:active {
+  color: rgb(231, 81, 11);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+<!--Trouble In Paradise City Link-->
+
+a.class3 {
+  color: magenta;
+}
+
+a.class3:link {
+  color: magenta;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.class3:visited {
+  color: rgb(158, 0, 158);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.class3:hover {
+  color: rgb(255, 126, 255);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a.class3:active {
+  color: rgb(231, 81, 11);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+<!--Contents Link-->
+
+a.class4 {
+  color: silver;
+}
+
+a.class4:link {
+  color: silver;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.class4:visited {
+  color: silver;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.class4:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a.class4:active {
+  color: rgb(231, 81, 11);
+  background-color: transparent;
+  text-decoration: underline;
+}
