@@ -2,11 +2,6 @@ body {
     font-family: "Funnel Display", sans-serif;
 }
 
-p {
-    font-size: 18px;
-    color: silver;
-}
-
 hr {
     color: silver;
 }
@@ -53,7 +48,6 @@ hr {
 
 .fragmentscontents {
     font-size: 25px;
-    padding-left: 5%;
     color: darkgray;
 }
 
