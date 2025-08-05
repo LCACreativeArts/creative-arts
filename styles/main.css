@@ -94,3 +94,11 @@ hr {
 ul.a {
     list-style-type: none;
 }
+
+iframe {
+  height: 100vh; /* Sets height to 100% of the viewport height */
+  width: 100vw; /* Sets width to 100% of the viewport width (optional, for full-screen effect) */
+  border: none; /* Removes default border */
+  display: block; /* Ensures iframe behaves as a block-level element */
+  margin: 0; /* Removes default margin */
+}
