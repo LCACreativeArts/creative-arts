@@ -96,9 +96,10 @@ ul.a {
 }
 
 iframe {
-  height: 100vh; /* Sets height to 100% of the viewport height */
-  width: 100vw; /* Sets width to 100% of the viewport width (optional, for full-screen effect) */
-  border: none; /* Removes default border */
-  display: block; /* Ensures iframe behaves as a block-level element */
-  margin: 0; /* Removes default margin */
+    width: 100vw; /* 100% of viewport width */
+    height: 100vh; /* 100% of viewport height */
+    position: fixed; /* Position relative to the viewport */
+    top: 0;
+    left: 0;
+    border: none; /* Remove iframe border */
 }
