@@ -94,12 +94,3 @@ hr {
 ul.a {
     list-style-type: none;
 }
-
-iframe {
-    width: 100vw; /* 100% of viewport width */
-    height: 100vh; /* 100% of viewport height */
-    position: fixed; /* Position relative to the viewport */
-    top: 0;
-    left: 0;
-    border: none; /* Remove iframe border */
-}
