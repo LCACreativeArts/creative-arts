@@ -11,13 +11,6 @@ hr {
     background-color: black;
 }
 
-.contents {
-    font-size: 16px;
-    text-align: justify;
-    border: 5px solid black;
-    padding: 1%;
-}
-
 .bio {
     text-indent: 30px;
     font-size: 40px;
@@ -86,6 +79,12 @@ hr {
     border: 5px double black;
 }
 
+.list-container{
+    text-align: center;
+    font-size: 35px;
+    line-height: 2.5;
+}
+
 .fragmentstitle {
     font-size: 40px;
     text-align: center;
@@ -112,4 +111,3 @@ hr {
 ul.a {
     list-style-type: none;
 }
-

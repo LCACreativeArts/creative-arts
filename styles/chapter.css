@@ -1,0 +1,28 @@
+.chapter-number{
+    font-family: "EB Garamond", sans-serif;
+    color: silver;
+    text-align: center;
+    font-size: 14px;
+}
+
+.chapter-title{
+    font-family: "EB Garamond", sans-serif;
+    color: silver;
+    text-align: center;
+    font-size: 30px;
+}
+
+.chapter-body{
+    font-family: "EB Garamond", sans-serif;
+    color: silver;
+    text-align: left;
+    text-indent: 2em;
+    font-size: 18px;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    margin-bottom: 150px;
+}
+
+.indent-line{
+    margin-left: 2em;
+}
