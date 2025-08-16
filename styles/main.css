@@ -20,6 +20,8 @@ hr {
     margin-right: 15vw;
 }
 
+  /* CONTENTS */
+
 /* Dropdown Button - Colour, size, positioning, text style*/
 .dropbtn {
   background-color: black;
@@ -64,24 +66,24 @@ hr {
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: rgb(151, 0, 0);}
 
+/* NAVIGATION BAR */
+
 /* The side navigation menu */
 .sidenav {
   height: 100%; /* 100% Full-height */
-  width: 80px; /* 0 width - change this with JavaScript */
+  width: 50px; /* 0 width - change this with JavaScript */
   position: fixed; /* Stay in place */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
   background-color: rgb(10, 10, 10); /* Black*/
-  border: 2px solid silver;
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 10px; /* Place content 60px from the top */
+  padding-top: 50px; /* Place content 50px from the top */
 }
 
 /* The navigation menu links - only padding due to no text */
 .sidenav a {
-  padding-left: 10px;
-  padding-top: 10px;
+  padding-left: 5px;
 }
 
 /* When you mouse over the navigation links, change their color - not used */
@@ -91,13 +93,13 @@ hr {
 
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
 #main {
-  margin-left: 80px;
+  margin-left: 50px;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+  .sidenav {width: 0px;}
+  #main {margin-left: 0px;}
 }
 
 .additional {
